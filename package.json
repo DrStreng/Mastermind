@@ -1,0 +1,24 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "implementacja gry mastermind",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3",
+    "git": "^0.1.5",
+    "morgan": "^1.6.1",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dawid Streng",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://Strengol@bitbucket.org/Strengol/gra.git"
+  },
+  "homepage": "https://bitbucket.org/Strengol/gra#readme"
+}

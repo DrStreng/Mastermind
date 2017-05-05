@@ -1,0 +1,3 @@
+# MasterMind
+
+implementacja gry mastermind
